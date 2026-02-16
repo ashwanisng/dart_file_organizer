@@ -1,0 +1,34 @@
+{
+  "directory": "/Users/ashwanisng/StudioProjects/dartpedia/dart_file_organizer/test_folder",
+  "totalFiles": 5,
+  "totalSize": "47 B",
+  "emptyDirs": 0,
+  "categories": {
+    "Documents": {
+      "count": 2,
+      "size": "25 B"
+    },
+    "Images": {
+      "count": 1,
+      "size": "11 B"
+    },
+    "Code": {
+      "count": 1,
+      "size": "0 B"
+    },
+    "Audio": {
+      "count": 1,
+      "size": "11 B"
+    }
+  },
+  "scanTime": 9,
+  "largestFile": {
+    "name": "document.pdf",
+    "size": "13 B"
+  },
+  "smallestFile": {
+    "name": "app.dart",
+    "size": "0 B"
+  },
+  "generatedAt": "2026-02-15T14:07:28.071296"
+}
